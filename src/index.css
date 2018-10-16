@@ -1,0 +1,21 @@
+
+html, body, :global(#root) {
+  height: 100%;
+}
+
+.demo-box {
+  display: block;
+  padding: 30px;
+  width: 500px;
+  /* height: 300px; */
+  border: 1px solid;
+  background-color: #fffbd4; 
+}
+
+.btn {
+    background-color: #f24;
+    padding: 6px 20px;
+    border: none;
+    color: #fff;
+    font-size: 2rem;
+}
